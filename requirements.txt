@@ -1,0 +1,38 @@
+
+# requirements.txt
+
+# Core ML and embeddings
+torch
+transformers
+sentence-transformers
+sentencepiece
+accelerate
+
+# LoRA fine-tuning
+peft
+trl
+datasets
+
+# RAG and retrieval
+faiss-cpu
+rank-bm25
+
+# Agentic workflow
+langgraph
+langchain-core
+langchain-community
+
+# Data processing
+numpy
+pandas
+scikit-learn
+
+# Configuration and utilities
+python-dotenv
+tqdm
+
+# PDF ingestion (if used in your code)
+pypdf
+
+# Audio/video transcription (if used in your code)
+openai-whisper
