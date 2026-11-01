@@ -1,4 +1,4 @@
-# ⚖️ Legal Advisor AI
+# ⚖️ Constitution-AI-Assistant
 
 **An AI-powered legal assistant for the Constitution of India using Agentic RAG, Hybrid Retrieval, and a fine-tuned Qwen model.**
 
