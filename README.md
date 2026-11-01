@@ -2,7 +2,7 @@
 
 **An AI-powered legal assistant for the Constitution of India using Agentic RAG, Hybrid Retrieval, and a fine-tuned Qwen model.**
 
-Legal Advisor AI is a research-oriented project that explores how retrieval-augmented generation can be used to answer questions about the Constitution of India. The project combines semantic search, keyword-based retrieval, rank fusion, a LangGraph workflow, and Qwen with LoRA fine-tuning.
+Constitution-AI-Assistant is a research-oriented project that explores how retrieval-augmented generation can be used to answer questions about the Constitution of India. The project combines semantic search, keyword-based retrieval, rank fusion, a LangGraph workflow, and Qwen with LoRA fine-tuning.
 
 The main objective is to retrieve relevant constitutional provisions and use them as context for generating answers.
 
